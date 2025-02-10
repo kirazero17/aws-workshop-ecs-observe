@@ -16,4 +16,4 @@ Monitoring is an important part of maintaining the reliability, availability, an
 
 ### Workshop content
 
-{{% Children / %}}
+{{% children / %}}
