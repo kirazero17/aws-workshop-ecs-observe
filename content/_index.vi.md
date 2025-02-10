@@ -1,8 +1,9 @@
 ---
-title: "AWS Workshop Template"
+title: "Theo dõi tài nguyên trên Amazon ECS"
 weight: 1
 chapter: false
 ---
 
-# AWS Workshop Template
+# Theo dõi tài nguyên trên Amazon ECS
+
 Thêm nội dung vào đây

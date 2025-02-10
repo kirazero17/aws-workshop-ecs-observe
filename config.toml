@@ -12,14 +12,14 @@ home = [ "HTML", "RSS", "JSON"]
   editURL = ""
   description = ""
   # Enter your e-mail address
-  author = ""
+  author = "longhg04515@gmail.com"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
   
 [Languages]
 [Languages.en]
-title = "AWS WORKSHOP"
+title = "Resource monitoring on Amazon ECS - AWS Workshop"
 weight = 1
 languageName = "English"
 
@@ -36,7 +36,7 @@ url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
 
 [Languages.vi]
-title = "AWS WORKSHOP"
+title = "Theo dõi tài nguyên trên Amazon ECS - AWS Workshop"
 weight = 2
 languageName = "Tiếng Việt"
 
